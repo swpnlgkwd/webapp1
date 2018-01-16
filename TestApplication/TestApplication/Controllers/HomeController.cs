@@ -15,7 +15,7 @@ namespace TestApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Change the Abouut Page.";
 
             return View();
         }
