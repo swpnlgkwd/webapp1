@@ -15,7 +15,7 @@ namespace TestApplication.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Change the Abouut Page.";
+            ViewBag.Message = "Swapnil Gaikwad";
 
             return View();
         }
